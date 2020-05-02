@@ -13,3 +13,4 @@ From ARP Spoofing to HTTP Proxy - HTTP Traffic intercept
 2. Option to manually add other Ports to iptables rules (current 80/443)
 3. No HTTP Proxy set - Pure ARP Spoofing
 4. Config file with default values
+5. Automatically set selected interface in either monitor mode or promiscous mode
